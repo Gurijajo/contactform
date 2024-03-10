@@ -6,6 +6,10 @@ This is a simple contact form designed to allow users to submit their inquiries 
 
 - HTML
 - CSS
-- JavaScript
 - Web3Forms API
+
+
+## Visit
+
+https://gurijajo.github.io/contactform/
 
